@@ -16,10 +16,10 @@ npm run build
 ```
 
 项目展示
+
 网页端
 
 1. dashboard
-展示了系统的核心统计功能，例如系统的访问量、总销售额、 订单量、用户数量，在订单趋势中使用了柱状图进行展示。
 
 ![图片](https://user-images.githubusercontent.com/80147607/178672323-fb291ab2-4ebe-4a56-a202-7f918ae4d1b2.png)
 
